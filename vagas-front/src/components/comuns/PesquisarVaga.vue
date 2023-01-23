@@ -11,7 +11,11 @@
           <small class="form-text text-muted">Informe palavras que estejam relacinonados com o título da vaga que
             você procura</small>
         </div>
-
+        <div class="row">
+          <div class="col">
+            <button class="btn btn-outline-dark mt-2" type="button">Buscar</button>
+          </div>
+        </div>
       </div>
 
     </div>
